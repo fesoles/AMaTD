@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://figshare.com/
+HostUrl=https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/23769689/amp_res_1.fastq.gz?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20231005/eu-west-1/s3/aws4_request&X-Amz-Date=20231005T094100Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=200ef82615482149f4b7dd8a469250b560dcc02e5224b7d71c2f247c6fd73d49
